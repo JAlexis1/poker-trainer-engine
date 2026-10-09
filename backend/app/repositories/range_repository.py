@@ -1,0 +1,1 @@
+#  Métodos para obtener rangos base preflop.

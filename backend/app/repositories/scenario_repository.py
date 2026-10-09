@@ -1,0 +1,1 @@
+# Métodos para consultar escenarios de entrenamiento en MongoDB.

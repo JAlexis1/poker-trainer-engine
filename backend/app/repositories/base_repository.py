@@ -1,0 +1,1 @@
+# Clase base o interfaz para operaciones de lectura/escritura
