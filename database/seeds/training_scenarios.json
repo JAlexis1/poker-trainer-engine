@@ -1,7 +1,7 @@
 [
   {
     "_id": "scenario_001",
-    "title": "Proyecto de Color a las nuts en Flop contra UTG",
+    "title": "Proyecto de Color a las nuts contra UTG",
     "hero": {
       "cards": ["As", "Qs"],
       "position": "CO"
