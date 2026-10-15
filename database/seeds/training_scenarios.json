@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "scenario_001",
+    "title": "Proyecto de Color a las nuts en Flop contra UTG",
+    "hero": {
+      "cards": ["As", "Qs"],
+      "position": "CO"
+    },
+    "villain": {
+      "position": "UTG",
+      "initial_range_id": "OR_UTG"
+    },
+    "board": {
+      "street": "flop",
+      "cards": ["Kh", "3s", "6s"]
+    },
+    "pot_state": {
+      "pot_size_bb": 11.25,
+      "current_bet_bb": 3.75,
+      "effective_stack_bb": 100.0,
+      "hero_has_initiative": false
+    }
+  }
+]

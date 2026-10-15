@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "OR_UTG",
+    "notation": "AA-66,AKs-A2s,KQs-KTs,QJs-QTs,JTs,AKo-AJo,KQo"
+  },
+  {
+    "_id": "OR_MP",
+    "notation": "AA-55,AKs-A2s,KQs-KTs,QJs-QTs,JTs,T9s,98s,AKo-ATo,KQo-KJo,QJo"
+  },
+  {
+    "_id": "OR_CO",
+    "notation": "AA-22,AKs-A2s,KQs-K8s,QJs-Q8s,JTs-J8s,T9s-T8s,98s-97s,87s,76s,65s,54s,AKo-A9o,KQo-KTo,QJo-QTo,JTo"
+  },
+  {
+    "_id": "OR_BTN",
+    "notation": "97s,87s-86s,76s-75s,65s-64s,54s,AKo-A2o,KQo-K9o,QJo-Q9o,JTo-J9o,T9o,98o,87o,76o"
+  },
+  {
+    "_id": "OR_SB",
+    "notation": "AA-22,AKs-A2s,KQs-K2s,QJs-Q2s,JTs-J2s,T9s-T6s,98s-96s,87s-85s,76s-74s,65s-63s,54s-53s,43s-42s,32s,AKo-A2o,KQo-K7o,QJo-Q8o,JTo-J8o,T9o-T8o,98o-97o,87o,76o,65o,54o"
+  }
+]
